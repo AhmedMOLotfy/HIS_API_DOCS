@@ -3,7 +3,7 @@
 request: <strong> POST </strong>
 
 <strong>
-   http://localhost:8000/api/reservation
+   http://localhost:8000/api/test-reservation
 </strong>
 
 <strong> Request body </strong>
