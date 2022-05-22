@@ -1,4 +1,4 @@
-## available-tests
+## available-vaccines
 
 request: <strong> GET </strong>
 
@@ -18,20 +18,26 @@ request: <strong> GET </strong>
 <code>
 [
     {
-        "test_id": 1,
-        "test-name": "PCR",
-        "test-fee": 200
+        "dose_id": 1,
+        "dose_number": 1,
+        "vaccine_name": "Pfizer"
     },
     {
-        "test_id": 2,
-        "test-name": "anti-bodies",
-        "test-fee": 100
+        "dose_id": 2,
+        "dose_number": 1,
+        "vaccine_name": "Astrazeneka"
     },
     {
-        "test_id": 3,
-        "test-name": "CBD",
-        "test-fee": 150
+        "dose_id": 3,
+        "dose_number": 1,
+        "vaccine_name": "Sinopharm"
+    },
+    {
+        "dose_id": 4,
+        "dose_number": 1,
+        "vaccine_name": "johnson and johnson"
     }
+] }
 ]
 </code>
 </pre>
