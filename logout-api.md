@@ -9,7 +9,7 @@ request: <strong> GET </strong>
 <strong> No Request body </strong>
 
 
-<strong> Must provide [ Autherization header (secret token) ] like that "Bearer 13|P6VvMvJmWQ05wgyic6zXux42deaqL5nzJtVnOCB3" </strong>
+<strong> Must provide [ Autherization header (secret token) ] like that <code>Bearer 13|P6VvMvJmWQ05wgyic6zXux42deaqL5nzJtVnOCB3</code> </strong>
 
 
 ### Response 
