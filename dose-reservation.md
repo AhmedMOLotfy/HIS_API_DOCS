@@ -11,13 +11,14 @@ request: <strong> POST </strong>
 <pre>
 <code>
 {
-    'dose_id': userInput
+    'dose_name': userInput
     'dose_date': userInput
     'dose_time': userInput
+    'dose_patient_health_name': userInput
 }
 </code>
 </pre>
-<strong> Must provide [ Autherization header (secret token) ] like that <code>Bearer 13|P6VvMvJmWQ05wgyic6zXux42deaqL5nzJtVnOCB3</code> </strong>
+<strong> Must provide [ <code>Autherization header</code> (secret token) ] like that <code>Bearer 13|P6VvMvJmWQ05wgyic6zXux42deaqL5nzJtVnOCB3</code> </strong>
 
 
 ### Response 
