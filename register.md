@@ -1,10 +1,10 @@
 ## Register
 
 request: <strong> POST </strong>
-</br>
-<code>
+
+<strong>
    <a>https://gentle-depths-38045.herokuapp.com/api/register</a>
-</code>
+</strong>
 
 <strong> Request body </strong>
 
