@@ -15,18 +15,15 @@ request: <strong> GET </strong>
 [
     {
         "test_id": 1,
-        "test-name": "PCR",
-        "test-fee": 200
+        "test-name": "PCR"
     },
     {
         "test_id": 2,
-        "test-name": "anti-bodies",
-        "test-fee": 100
+        "test-name": "Anti-bodies"
     },
     {
         "test_id": 3,
-        "test-name": "CBD",
-        "test-fee": 150
+        "test-name": "CBC"
     }
 ]
 </code>
