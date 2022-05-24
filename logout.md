@@ -3,7 +3,7 @@
 request: <strong> GET </strong>
 
 <strong>
-   http://localhost:8000/api/logout
+   https://gentle-depths-38045.herokuapp.com/api/logout
 </strong>
 
 <strong> No Request body </strong>
