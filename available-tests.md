@@ -8,7 +8,7 @@ request: <strong> GET </strong>
 <strong> Must provide [ Autherization header (secret token) ] like that <code>Bearer 13|P6VvMvJmWQ05wgyic6zXux42deaqL5nzJtVnOCB3</code> </strong>
 
 ### Response 
-#### if successful operation
+#### if successful operation <code>status code = 200</code>
 
 <pre>
 <code>
