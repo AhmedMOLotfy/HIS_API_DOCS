@@ -26,7 +26,7 @@ request: <strong> POST </strong>
 <pre>
 <code>
 {
-    "msg": "successful reservation"
+    "msg": "successful dose reservation"
 }
 </code>
 </pre>
@@ -34,7 +34,7 @@ request: <strong> POST </strong>
 <pre>
 <code>
 {
-    "msg": "failed reservation"
+    "msg": "failed dose reservation"
 }
 </code>
 </pre>
