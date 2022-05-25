@@ -1,9 +1,9 @@
-## delete-reservation
+## delete-test-reservation
 
 request: <strong> DELETE </strong>
 
 <strong>
-   https://gentle-depths-38045.herokuapp.com/api/delete-reservation
+   https://gentle-depths-38045.herokuapp.com/api/delete-test-reservation
 </strong>
 
 <strong> Request body </strong>
